@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/.github/logo.svg" alt="GitCat Logo"/>
+  <img src="/.github/capa.svg" alt="GitCat Logo"/>
 </h1>
 
 <p align="center">
@@ -62,6 +62,10 @@ $ yarn
 # Start the project
 $ yarn start
 ```
+
+------------
+<h2>🔖 Layout</h2>
+The project layout is available on <a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1">Figma</a>.
 
 ------------
 <h2>📝 License</h2>
