@@ -12,7 +12,7 @@
   <a href="https://github.com/Goytai/GithubExplorer/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Goytai/GithubExplorer?style=for-the-badge" alt="License MIT" />
   </a>
-  <a href="https://gitcat.vercel.app/">
+  <a href="https://github-explorer-wheat.vercel.app/">
     <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=6f48c9&up_message=online&url=https%3A%2F%2Fgithub-explorer-wheat.vercel.app%2F" alt="Website Status" />
   </a>
 </p>
@@ -35,7 +35,7 @@ The project was developed with:
 The live preview is available at:
 
 <p align="center">
-  <a href="https://gitcat.vercel.app/">
+  <a href="https://github-explorer-wheat.vercel.app/">
     <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=6f48c9&up_message=online&url=https%3A%2F%2Fgitcat.vercel.app%2F" alt="Website Status" />
   </a>
 </p>
